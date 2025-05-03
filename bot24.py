@@ -7,7 +7,7 @@ from binance.exceptions import BinanceAPIException
 # === CREDENZIALI BINANCE E TELEGRAM ===
 api_key = '1Vuc0QLG5aYonI2RRSxGK1JKbxKg4bzUlaHLJ7Bg6VgvOdPrey5T8htKRDpXrWmo'
 api_secret = 'OjTHhg6TeOh61k89mjyK2cRVFIG4nL5LYGJpwaNpAyk56OBGtV2SKfLo4nGGa1G4'
-telegram_token = '7821995611:AAHuRo27fo07bptMxVPUhdcXdxJqQcW-ZWc'
+telegram_token = '7821995611:AAEWUGL-rwlZvG2RIOFqFSpeUCWmonSuuU4'
 telegram_chat_id = '167367006'
 
 # === CONFIG ===
